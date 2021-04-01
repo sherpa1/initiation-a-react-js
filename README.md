@@ -1,4 +1,4 @@
-# Hello World !
+# Initiation à React.js
 
 ---
 

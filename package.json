@@ -1,5 +1,6 @@
 {
-  "name": "hello-world",
+  "name": "initiation-a-react-js",
+  "author": "Alexandre Leroux <alex@sherpa.one>",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
